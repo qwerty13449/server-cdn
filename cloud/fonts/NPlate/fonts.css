@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'NPlate';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("NPlate/license_plate.woff2?v=3.12") format("woff2"),
+       url("NPlate/license_plate.woff?v=3.12") format("woff");
+}
